@@ -33,3 +33,6 @@ Content-Type: application/json
   "dateUpdated": "2023-05-28T17:42:11.8590386",
   "url": "http://localhost:8080/my-first-blog-post"
 }
+
+### Delete by ID
+DELETE http://localhost:8080/api/content/2
